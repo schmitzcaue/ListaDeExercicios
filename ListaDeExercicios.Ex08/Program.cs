@@ -15,7 +15,6 @@
             Console.WriteLine("Digite o valor C: ");
             double valorC = Convert.ToDouble(Console.ReadLine());
 
-
             #endregion
 
             #region metodo
