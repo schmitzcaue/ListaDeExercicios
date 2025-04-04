@@ -19,11 +19,15 @@
             #endregion
 
             #region metodo
-            double resultado =
+            double resultado = (valorA + valorB);
+            if (resultado < valorC)
+            {
+                Console.WriteLine($""
+            }
 
             #endregion
 
-            #region output
+                #region output
             Console.WriteLine($"A media do aluno é: {resultado}");
             Console.ReadLine();
             #endregion
