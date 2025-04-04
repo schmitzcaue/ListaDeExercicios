@@ -22,14 +22,22 @@
             double resultado = (valorA + valorB);
             if (resultado < valorC)
             {
-                Console.WriteLine($""
+                Console.WriteLine($"a soma de A + B é: {valorA + valorB}");
+                Console.WriteLine($"Sendo menor que C: {valorC}");
+                Console.ReadLine();
+            }
+
+            if (resultado > valorC)
+            {
+                Console.WriteLine($"a soma de A + B é: {valorA + valorB}");
+                Console.WriteLine($"Sendo maior que C: {valorC}");
+                Console.ReadLine();
             }
 
             #endregion
 
-                #region output
-            Console.WriteLine($"A media do aluno é: {resultado}");
-            Console.ReadLine();
+            #region output
+
             #endregion
         }
     }
