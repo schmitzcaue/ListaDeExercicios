@@ -1,19 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35828.75 d17.13
+VisualStudioVersion = 17.13.35828.75
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDeExercicios.01", "ListaDeExercicios.01\ListaDeExercicios.01.csproj", "{E512DF88-FCD4-426D-8389-A7D1378FC410}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDeExercicios.Ex01", "ListaDeExercicios.01\ListaDeExercicios.Ex01.csproj", "{E512DF88-FCD4-426D-8389-A7D1378FC410}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listaDeExercicios.Ex02", "listaDeExercicios.Ex02\listaDeExercicios.Ex02.csproj", "{A69FE5B0-03DD-4096-AD00-FE2CECA5D728}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listaDeExercicios.ex03", "listaDeExercicios.ex03\listaDeExercicios.ex03.csproj", "{CA376967-70F6-489F-9B4E-2D1E61FA7E93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDeExercicio.Ex04", "ListaDeExercicio.Ex04\ListaDeExercicio.Ex04.csproj", "{F20D1424-6BF1-4DFC-9CF9-090B92646ED0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDeExercicios.Ex04", "ListaDeExercicio.Ex04\ListaDeExercicios.Ex04.csproj", "{F20D1424-6BF1-4DFC-9CF9-090B92646ED0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDeExercicio.ex05", "ListaDeExercicio.ex05\ListaDeExercicio.ex05.csproj", "{055F0146-6798-45C7-B604-A3A709A1227A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDeExercicios.Ex05", "ListaDeExercicio.ex05\ListaDeExercicios.Ex05.csproj", "{055F0146-6798-45C7-B604-A3A709A1227A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDeExercicios.Ex06", "ListaDeExercicios.Ex06\ListaDeExercicios.Ex06.csproj", "{EF883176-B58F-4301-9A89-FC15A9B526C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDeExercicios.Ex07", "ListaDeExercicios.07\ListaDeExercicios.Ex07.csproj", "{E5DCF261-64FE-4AE0-A779-D7ADB727BC3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaDeExercicios.Ex08", "ListaDeExercicios.Ex08\ListaDeExercicios.Ex08.csproj", "{263886E2-DBFC-4257-B72A-EB2AEB6ED87B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{EF883176-B58F-4301-9A89-FC15A9B526C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF883176-B58F-4301-9A89-FC15A9B526C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF883176-B58F-4301-9A89-FC15A9B526C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5DCF261-64FE-4AE0-A779-D7ADB727BC3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DCF261-64FE-4AE0-A779-D7ADB727BC3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DCF261-64FE-4AE0-A779-D7ADB727BC3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DCF261-64FE-4AE0-A779-D7ADB727BC3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263886E2-DBFC-4257-B72A-EB2AEB6ED87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263886E2-DBFC-4257-B72A-EB2AEB6ED87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263886E2-DBFC-4257-B72A-EB2AEB6ED87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263886E2-DBFC-4257-B72A-EB2AEB6ED87B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
