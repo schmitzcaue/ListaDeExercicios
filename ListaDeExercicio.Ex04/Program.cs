@@ -16,7 +16,7 @@
             #endregion
 
             #region output
-            Console.WriteLine($"A temperatura da escala Celsius é: {temperatura}");
+            Console.WriteLine($"A temperatura da escala Fahrenheit é: {temperatura}");
             Console.ReadLine();
             #endregion
 
