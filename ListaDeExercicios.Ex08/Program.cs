@@ -18,20 +18,13 @@
             #endregion
 
             #region metodo
-            double resultado = (valorA + valorB);
-            if (resultado < valorC)
+            if (valorA + valorB < valorC)
             {
-                Console.WriteLine($"a soma de A + B é: {valorA + valorB}");
-                Console.WriteLine($"Sendo menor que C: {valorC}");
+                Console.WriteLine($"A soma de A ({valorA}) + B ({valorB}) é menor que C ({valorC})");
                 Console.ReadLine();
+
             }
 
-            if (resultado > valorC)
-            {
-                Console.WriteLine($"a soma de A + B é: {valorA + valorB}");
-                Console.WriteLine($"Sendo maior que C: {valorC}");
-                Console.ReadLine();
-            }
 
             #endregion
 
